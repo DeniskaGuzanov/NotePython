@@ -2,7 +2,7 @@ import fileNote
 import Note
 import uiNote
 
-number = 1  # сколько знаков МИНИМУМ может быть в тексте заметки
+number = 1  
 
 
 def add():
